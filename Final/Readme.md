@@ -17,6 +17,8 @@ The Dataset consists of the following the data files:
 This analysis uses the dataset recent-grads.csv. Here, we calculate the total men and the total women in each major category. We also find the gender ratio. We plot bar graphs for the same using matplotlib.
 
 From this analysis, we see that, the number of women in Biology and life sciences,  Education, Health, Arts and Psychology are significantly higher. These major fields are dominated by the women.
+![totalmenvstotalwomen](https://cloud.githubusercontent.com/assets/25044482/25308029/4ba02488-277a-11e7-975c-3a53919de9ea.png)
+
 
 The gender ratio of the major fields like Engineering, Business, Law and public safety are much over 100. These major fields are mostly dominated by men
 
