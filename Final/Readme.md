@@ -1,7 +1,7 @@
 
 # Analysis on college majors Data set
 
-The topic has always been debated on- "Which major is considered best for a student, how would it make one successful?" The college Majors Data set is the data from the American community survey which estimated median earnings for recent college graduates broken down by major. 
+The topic has always been debated on- "Which major is considered best for a student, how would it make one successful?" The college Majors Data set is the data from the American community survey in the years 2010-2011 which estimated median earnings for recent college graduates broken down by major. 
 
 The Dataset consists of the following the data files:
 1. all-ages.csv: consists of data of students employed full-time, unemployement rates and median pay for all    age groups
@@ -54,7 +54,7 @@ In this Analysis, we find the percentage of women in each major through the year
 
 + We notice that the number of women enrolled in each major has significantly increases. Especially in the Engineering and business major
 ![percentageofwomenvsyear](https://cloud.githubusercontent.com/assets/25044482/25308099/8c68129a-277b-11e7-8499-3577d52b466f.png)
-+ From the scatter plot, we observe that the majors having highest percentage of female have low average IQs.
++ From the scatter plot, we observe that the majors having highest percentage of female have low average IQs. A naive reader may look at this graph and conclude that men are smarter than women, but it is vital to note that, on average, men and women have about the same IQ.
 ![percentage_femalevsaverage_iq](https://cloud.githubusercontent.com/assets/25044482/25308103/9addec32-277b-11e7-872c-2743dc2af1fa.png)
 
 ```python
