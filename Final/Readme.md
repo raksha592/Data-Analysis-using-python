@@ -1,7 +1,7 @@
 
 # Analysis on college majors Data set
 
-The topic has always been debated on- "Which major is considered best for a student, how would it make one successful?" The college Majors Data set is the data from the American community survey in the years 2010-2011 which estimated median earnings for recent college graduates broken down by major. 
+The topic has always been debated on- "Which major is considered best for a student, how would it make one successful?" The college Majors Data set is the data from the American community survey in the years 2010-2011 which estimated median earnings for recent college graduates broken down by major. The survey also conducted gender based analysis and also the average IQ of candidates in each major.
 
 The Dataset consists of the following the data files:
 1. all-ages.csv: consists of data of students employed full-time, unemployement rates and median pay for all    age groups
@@ -41,11 +41,11 @@ This is a pattern analysis of the data from grad-students.csv. We analyse the da
 
 **Analysis 4:**
 
-In this analysis, we find the total number of men and women in each major. We also find the number of women compared to median pay.
+In this analysis, we find the total number of men and women in each major. We also find the number of women compared to median pay. The female-dominated majors make less on average than male-dominated majors.
 
 + The majors which are mostly dominated by women have lower median pay. Education is a major which is mostly dominated by women. But the median pay in this field is one of the lowest
 ![comparisionnumberofmenwomen](https://cloud.githubusercontent.com/assets/25044482/25308087/595337cc-277b-11e7-886d-c20c555434a6.png)
-+ The majors dominated by men are mostly business and Engineering. These fields are the highest paid.
++ The majors dominated by men are mostly business and Engineering. These fields are the highest paid. 
 ![percentage_femalevsmedian](https://cloud.githubusercontent.com/assets/25044482/25308092/6ea982b6-277b-11e7-8da4-d71ee8c8bd76.png)
 
 **Analysis 5:**
