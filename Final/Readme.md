@@ -57,6 +57,16 @@ In this Analysis, we find the percentage of women in each major through the year
 + From the scatter plot, we observe that the majors having highest percentage of female have low average IQs. A naive reader may look at this graph and conclude that men are smarter than women, but it is vital to note that, on average, men and women have about the same IQ.
 ![percentage_femalevsaverage_iq](https://cloud.githubusercontent.com/assets/25044482/25308103/9addec32-277b-11e7-872c-2743dc2af1fa.png)
 
+**Analysis 6:**
+
+In this Analysis, we find the majors which have maximum number of gradutes compared to the majors with maximum number of students employed. We find that education major has highest number of graduated students as well has highest employed students
+
+**Analysis 7:**
+
+In this analysis, we do a scatter plot of majors where in students have scored maximum in SAT.
+
++ We notice that students in the business field have maximum Verbal SAT, Quant SAT and also Average SAT
+
 ```python
 
 ```
