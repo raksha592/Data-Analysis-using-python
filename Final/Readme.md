@@ -65,6 +65,10 @@ In this Analysis, we find the majors which have maximum number of gradutes compa
 
 In this analysis, we do a scatter plot of majors where in students have scored maximum in SAT.
 
+![averagesat](https://cloud.githubusercontent.com/assets/25044482/25636415/5039b694-2f4f-11e7-853a-f8ccc8d8bec5.png)
+![quantsat](https://cloud.githubusercontent.com/assets/25044482/25636420/53d67d96-2f4f-11e7-91b4-c18d9f09f75c.png)
+![verbalsat](https://cloud.githubusercontent.com/assets/25044482/25636429/5686bbb4-2f4f-11e7-8706-3d4e0c76144b.png)
+
 + We notice that students in the business field have maximum Verbal SAT, Quant SAT and also Average SAT
 
 ```python
